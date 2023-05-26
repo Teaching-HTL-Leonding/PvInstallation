@@ -125,3 +125,7 @@ var bytes = img.GetImageBytes();
 
 return Results.File(bytes, "image/png");
 ```
+
+## Sample Solution
+
+You can find a sample solution in [https://github.com/rstropek/htl-2022-23-4th/tree/main/Examples/PvInstallations/solution](https://github.com/rstropek/htl-2022-23-4th/tree/main/Examples/PvInstallations/solution).
